@@ -88,7 +88,15 @@ For more flexibility, the same order cycle may have **multiple hub distributors*
 
 The **Tags** column is where you can tag your order cycles to customise whether they are visible/invisible to certain customers. See [tags and tag rules](../customer-management-and-conditional-displays-prices/tags-and-tag-rules.md) for more information.
 
-The **‘Ready for (i.e. Date/Time)’ (**_**required**_**):** This box tells the customer when their order will be ready for either collection or delivery. If your order cycle is a perpetual one, which fulfils orders on an individual basis rather than in bulk, you should enter something like ‘Two days after order is received’. The example below shows how a customer can toggle between different order cycles to select the date which suits them best.
+The **‘Ready for (i.e. Date/Time)’ (**_**required**_**):** This box tells the customer when their order will be ready for either collection or delivery. If your order cycle is a perpetual one, which fulfils orders on an individual basis rather than in bulk, you should enter something like ‘Two days after order is received’. 
+
+### 4) Checkout options
+
+Here you can select which shipping methods you would like to be available to your customer for this particular order cycle. This is really useful if for example you are unable to offer a particular delivery method one week and allows you to deselect it for one week only rathe rthan having to delete the shipping method form your admin panel and add it again the following week.
+
+![shipping methods](https://user-images.githubusercontent.com/116073851/196434199-be14f78a-1422-4002-8556-a5d41bf1b6ef.JPG)
+
+The example below shows how a customer can toggle between different order cycles to select the date which suits them best.
 
 ![](../../../.gitbook/assets/multipleoc3.jpg)
 
