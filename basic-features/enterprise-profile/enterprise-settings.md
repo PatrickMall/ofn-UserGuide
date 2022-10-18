@@ -39,7 +39,7 @@ This short video gives a quick insight into the steps and options detailed below
 Only enterprises marked as Producers can add products to OFN. [Non-Producer Hubs](package-types.md#for-non-producers-hubs) only need to select this option if they retail mixed boxes which they pack and contain items from multiple producers.
 {% endhint %}
 
-**Visible in Search:** If your profile is ready to go public, select 'public', and your business will appear in the OFN's directory and map. Selecting 'hidden' will hide your profile in search and maps but still allow references in other shop profiles. 'Hide all references' will make your enteprise completely hidden on the platform.
+**Visible in Search:** If your profile is ready to go public, select 'public', and your business will appear in the OFN's directory and map. Selecting 'hidden' will hide your profile in search and maps but still allow references in other shop profiles. 'Hide all references' will make your enteprise completely hidden on the platform. This feature creates a shopfront that only people who have been given a link to the url (e.g. https://openfoodnetwork.org.uk/your-shop-name/shop) of your shop can find it and shop there.
 
 **Permalink:** You can customise part of the web address which will host your shop.
 
