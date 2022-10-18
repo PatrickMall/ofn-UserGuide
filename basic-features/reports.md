@@ -4,7 +4,17 @@ You can access reports by clicking on **Reports** in the blue horizontal menu.
 
 ![](../.gitbook/assets/screen-shot-2019-12-04-at-2.17.42-pm.png)
 
-Here you will find a list of the pre-defined data exports that are available to view and download. All reports are available to download as a CSV file by selecting the **Download as CSV** checkbox when you specify the filters for each report.   
+Here you will find a list of the pre-defined data exports that are available to view and download. All reports are available to download in PDF, CSV, Excel and OpenOffice format. To do this, select the preferred method of viewing/downloading from the "<b>Generate report</b>" dropdown when you specify the filters for each report. 
+
+There are two sections to finding the report you need, "<b>report filters</b>" and "<b>rendering options</b>" these can help you to refine your report to suit you needs.
+
+You can choose what data is relevant to you front he report and hide any unnessecary data by using the "<b>Columns to hide</b>" drop down and selecting which data to omit. 
+
+When filtering for a report you can also select/deselect how you want your report to be orgainsed using the "<b>Display</b>" checkboxes. The "<b>header</b>" row checkbox will show a breakdown of the products per user and the "<b>summary row,/b>" will give you the totals for each of the coloumns you have in the report.
+
+Once a report has been filter it can easily be printed using the "<b>Print report</b> blue button in the top right corner above the table.  
+
+
 
 
 ## All Reports
@@ -100,8 +110,12 @@ Some enterprises use their order confirmation emails as packing sheets, or downl
 This report lists each customer who placed an order and shows each item ordered by the customer, including the quantities of each item. It’s useful for shops who pack orders customer by customer.
 
 **Pack by supplier**
-
+  
 This report lists each supplier and their products. Next to each product is the name of the customers who ordered the product, and the quantity they ordered. The report is useful for shops who pack orders according to supplier.
+  
+**Pack by product**
+
+This report lists each indiviual product ordered and the quantity ordered as well as the customers who have ordered them. The report is useful for shops who pack orders according to products.
 
 ## Sales Tax
 
